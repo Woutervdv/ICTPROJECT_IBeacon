@@ -1,1 +1,0 @@
-# ICTPROJECT_IBeacon
